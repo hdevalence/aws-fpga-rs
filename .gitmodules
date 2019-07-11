@@ -1,0 +1,3 @@
+[submodule "vendor/aws-fpga"]
+	path = vendor/aws-fpga
+	url = https://github.com/aws/aws-fpga.git
