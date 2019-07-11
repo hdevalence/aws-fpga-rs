@@ -1,3 +1,9 @@
+#[macro_use]
+extern crate bitflags;
+
+pub mod ffi;
+pub mod fpga_pci;
+
 #[cfg(test)]
 mod tests {
     #[test]
