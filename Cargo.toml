@@ -12,3 +12,4 @@ bindgen = "0.50"
 
 [dependencies]
 bitflags = "1.1"
+failure = "0.1"

@@ -1,6 +1,9 @@
 #[macro_use]
 extern crate bitflags;
+#[macro_use]
+extern crate failure;
 
+pub mod errors;
 pub mod ffi;
 pub mod fpga_pci;
 
